@@ -79,7 +79,9 @@ A CSV file `medical_docs_summary` will be generated with the following structure
 
 The results will be saved in `data/medical_docs_summary.csv` and sorted by date.
 
-Example of the output:
+Full example of the output:
+
+```data/medical_docs_summary-example.csv```
 
 | Date       | Event Type             | Document Summary                                                                                                                                                                                                                                                                  | Evaluation                                                     | Page  |
 |------------|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|-------|
