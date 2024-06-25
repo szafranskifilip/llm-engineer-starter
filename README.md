@@ -47,6 +47,8 @@ echo "export PYTHONPATH=`pwd`/src" >> anterior_venv/bin/activate
 ### 3. Update Your Environment Variables
 Update your `.env` file with the necessary credentials and configuration:
 
+To set up ypur GCP Document AI account and download credentials please follow the instruction here: https://www.loom.com/share/4d4ee611b4504cb7977cb47a9fc0058c?sid=db01e5aa-e057-4fa1-af85-94090c7f0c9d
+
 ```env
 GOOGLE_APPLICATION_CREDENTIALS="path/to/credentials.json"
 GCP_PROJECT_ID="your-gcp-project-id"
