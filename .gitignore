@@ -1,6 +1,13 @@
 # Please include any .idea folders if you use Pycharm
 
 # Env Vars
+__pycache__/
 **/.env
 .idea/
 .DS_Store
+notebooks/
+secrets/
+temp/
+anterior_venv/
+data/pdf_content.txt
+data/inpatient_record-20-test.pdf

@@ -1,2 +1,7 @@
 google-cloud-documentai==2.27.0
 python-dotenv==1.0.1
+langchain
+langchain-openai
+langchain-community
+PyPDF2
+pandas
